@@ -56,4 +56,5 @@ No additional resources required.
 
 ## Acknowledgments
 [edx](https://www.edx.org/)
+
 [MITx](https://www.edx.org/school/mitx)
